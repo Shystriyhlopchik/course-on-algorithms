@@ -4,6 +4,5 @@
   * [Линейный поиск](./sprint_1/linear-search.md)
   * [Бинарный поиск](./sprint_1/binary-search.md)
   * [Сложность алгоритма](./sprint_1/algorithm-complexity.md)
-  * [Пространственная сложность алгоритма]()
-  * [Поиск простых чисел]()
+  * [Пространственная сложность алгоритма](./sprint_1/spatial-complexity-of-the-algorithm.md)
   * [Задачи]()
