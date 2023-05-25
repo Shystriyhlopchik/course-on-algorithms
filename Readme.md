@@ -5,4 +5,4 @@
   * [Бинарный поиск](./sprint_1/binary-search.md)
   * [Сложность алгоритма](./sprint_1/algorithm-complexity.md)
   * [Пространственная сложность алгоритма](./sprint_1/spatial-complexity-of-the-algorithm.md)
-  * [Задачи]()
+  * [Задачи](./sprint_1/tasks.md)
